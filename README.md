@@ -8,6 +8,6 @@ Manual para trabajar con  GIT de modo cooperativa.
 4. Gestión de ramas ( nombre ) 
 5. Git ignore ( nombre ) 
 6. Recuperar repositorio ( nombre )
-7. Trabajo colaborativo - Pull request y Push Request ( nombre ) 
+7. Trabajo colaborativo - Pull request y Push Request ( Laia ) 
 7. [MarckDown](markdown.md)
 
